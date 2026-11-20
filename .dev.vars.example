@@ -1,0 +1,5 @@
+# Copy to .dev.vars for local development. In production set these as Worker secrets.
+# Required once: lets you create the four administrator accounts at /setup.
+SETUP_TOKEN=
+# Optional: enables AI-written recaps and CFB 27 screenshot reading.
+ANTHROPIC_API_KEY=
